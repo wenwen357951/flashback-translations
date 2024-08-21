@@ -1,0 +1,9 @@
+# Credit by https://github.com/Madis0/sodium-fabric-translations
+blank_issues_enabled: true
+contact_links:
+  - name: Language requests and discussion
+    url: https://crowdin.com/project/flashback-fabric/discussions
+    about: Adding a new language, discussing overall aspects of languages
+  - name: Translation issues
+    url: https://support.crowdin.com/online-editor/#reporting-issues
+    about: Wrong translation, context question and other comments about specific strings
