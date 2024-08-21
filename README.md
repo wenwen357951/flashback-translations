@@ -4,6 +4,8 @@
 
 Unofficial translations for the mod Flashback.
 
+This mod is a very new mod. Many of the messages in the mod have not been provided as translatable text by the author.
+
 ## Translating
 By submitting translations, you are agreeing to have them licensed under the Creative Commons Zero (CC0) license.
 
