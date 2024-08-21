@@ -2,7 +2,7 @@
 
 [![Crowdin](https://badges.crowdin.net/flashback-fabric/localized.svg)](https://crowdin.com/project/flashback-fabric)
 
-Unofficial translations for the mod Flashback.
+Unofficial translations for the mod [Flashback](https://modrinth.com/mod/flashback).
 
 This mod is a very new mod. Many of the messages in the mod have not been provided as translatable text by the author.
 
