@@ -14,3 +14,5 @@ You can contribute to the translation effort on our Crowdin project page! First 
 Please note that new versions will be created every Saturday if there are changes. If you don't see the most recent translations, please check back later for a new release.
 
 For more information on using Crowdin, please see their "Intro For Volunteer Translators" support page.
+
+Crowdin: https://crowdin.com/project/flashback-fabric
