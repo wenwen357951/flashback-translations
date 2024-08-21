@@ -1,0 +1,20 @@
+{
+  "flashback.select_replay": "选择重播",
+  "flashback.select_replay.open": "打开重播",
+  "flashback.select_replay.loading_replays": "加载重播中",
+  "flashback.select_replay.replay": "重播",
+  "flashback.select_replay.data_read": "读取重播数据...",
+  "flashback.select_replay.delete_question": "您确定您想要删除这个重播吗?",
+  "flashback.select_replay.duration": "时长: %s",
+
+  "flashback.option.automatically_start": "自动开始重播录制",
+  "flashback.option.automatically_start.description": "加入世界或服务器时自动开始重播录制",
+  "flashback.option.automatically_finish": "自动完成重播录制",
+  "flashback.option.automatically_finish.description": "离开世界或服务器时自动完成重播录制",
+  "flashback.option.show_recording_toasts": "显示录制通知",
+  "flashback.option.show_recording_toasts.description": "开始/停止重播录音时在右上角显示录制通知",
+  "flashback.option.quicksave": "快速保存",
+  "flashback.option.quicksave.description": "使用默认值保存重播录制，而不会打开「保存重播录制」画面",
+  "flashback.option.hide_pause_menu_controls": "隐藏菜单按钮",
+  "flashback.option.hide_pause_menu_controls.description": "隐藏位于 ESC 菜单中用于开始/结束重播录制的按钮。仍然可以使用指令控制"
+}

@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 34
+    },
+    "description": [
+      {
+        "text": "Unofficial translations for Flashback.\nv1.0.0"
+      }
+    ]
+  }
+}

@@ -1,2 +1,2 @@
-# flashback-translations
-Translations for Flashback
+# Unofficial Sodium Translations
+
