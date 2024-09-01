@@ -6,6 +6,7 @@
   "flashback.select_replay.data_read": "リプレイデータを読み込んでいます...",
   "flashback.select_replay.delete_question": "このリプレイを削除してもよろしいですか？",
   "flashback.select_replay.duration": "期間: %s",
+  "flashback.option.per_second": "%s/s",
   "flashback.option.automatically_start": "自動的に開始",
   "flashback.option.automatically_start.description": "ワールド/サーバーに参加したときに自動的にリプレイ録画を開始します",
   "flashback.option.automatically_finish": "自動で終了",
@@ -15,5 +16,13 @@
   "flashback.option.quicksave": "Quicksave",
   "flashback.option.quicksave.description": "リプレイを保存画面を開く代わりにデフォルト値で保存する",
   "flashback.option.hide_pause_menu_controls": "一時停止コントロールを隠す",
-  "flashback.option.hide_pause_menu_controls.description": "リプレイの開始/終了のための一時停止(ESC)メニューコントロールを非表示にします。コマンドは引き続き機能します"
+  "flashback.option.hide_pause_menu_controls.description": "リプレイの開始/終了のための一時停止(ESC)メニューコントロールを非表示にします。コマンドは引き続き機能します",
+  "flashback.option.mark_dimension_changes": "寸法変更をマーク",
+  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.record_hotbar": "ホットバーを記録",
+  "flashback.option.record_hotbar.description": "一人称ホットバー情報をリプレイに追加します",
+  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second.description": "一人称プレイヤーの位置/角度に対する1秒あたりの更新率",
+  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat.description": "SimpleVoiceChat のボイスチャットをリプレイに追加します"
 }
