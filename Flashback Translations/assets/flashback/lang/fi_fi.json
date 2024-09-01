@@ -6,6 +6,7 @@
   "flashback.select_replay.data_read": "Luetaan uusintatietoja...",
   "flashback.select_replay.delete_question": "Oletko varma, että haluat poistaa tämän uudelleen?",
   "flashback.select_replay.duration": "Kesto: %s",
+  "flashback.option.per_second": "%s/s",
   "flashback.option.automatically_start": "Käynnistä Automaattisesti",
   "flashback.option.automatically_start.description": "Käynnistä automaattisesti toiston nauhoitus liittyessä maailmaan/palvelimeen",
   "flashback.option.automatically_finish": "Automaattisesti Valmis",
@@ -15,5 +16,13 @@
   "flashback.option.quicksave": "Quicksave",
   "flashback.option.quicksave.description": "Tallenna uusinta oletusarvoilla sen sijaan, että avattaisiin Tallenna toistuva näyttö",
   "flashback.option.hide_pause_menu_controls": "Piilota Keskeytä Ohjaimet",
-  "flashback.option.hide_pause_menu_controls.description": "Piilota valikkonäppäimet käynnistää/viimeistelläksesi toiston. Komennot toimivat edelleen"
+  "flashback.option.hide_pause_menu_controls.description": "Piilota valikkonäppäimet käynnistää/viimeistelläksesi toiston. Komennot toimivat edelleen",
+  "flashback.option.mark_dimension_changes": "Merkitse Muutokset",
+  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.record_hotbar": "Tallenna Pikapalkki",
+  "flashback.option.record_hotbar.description": "Lisää ensimmäisen persoonan pikapalkin tiedot uusintaan",
+  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second.description": "Ensimmäisen persoonan pelaajan sijainnin / kulman päivitysnopeus sekunnissa",
+  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat.description": "Lisää äänikeskustelun SimpleVoiceChatista uusintaan"
 }

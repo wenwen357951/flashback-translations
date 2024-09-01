@@ -6,6 +6,7 @@
   "flashback.select_replay.data_read": "Čtení záznamu dat...",
   "flashback.select_replay.delete_question": "Jste si jisti, že chcete odstranit tuto replay?",
   "flashback.select_replay.duration": "Trvání: %s",
+  "flashback.option.per_second": "%s/s",
   "flashback.option.automatically_start": "Automaticky spustit",
   "flashback.option.automatically_start.description": "Automaticky spustí záznam při připojení ke světu/serveru",
   "flashback.option.automatically_finish": "Automaticky dokončit",
@@ -15,5 +16,13 @@
   "flashback.option.quicksave": "Quicksave",
   "flashback.option.quicksave.description": "Uložit záznam s výchozími hodnotami místo otevření obrazovky Uložit záznam",
   "flashback.option.hide_pause_menu_controls": "Skrýt pozastavení ovladačů",
-  "flashback.option.hide_pause_menu_controls.description": "Skrýt pozastavení (ESC) menu pro spuštění/dokončení záznamu. Příkazy budou stále fungovat"
+  "flashback.option.hide_pause_menu_controls.description": "Skrýt pozastavení (ESC) menu pro spuštění/dokončení záznamu. Příkazy budou stále fungovat",
+  "flashback.option.mark_dimension_changes": "Označit změny rozměrů",
+  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.record_hotbar": "Zaznamenat rychlý panel",
+  "flashback.option.record_hotbar.description": "Přidá informace o hotbaru první osoby do záznamu",
+  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second.description": "Rychlost aktualizace za sekundu pro pozici/úhel prvního hráče",
+  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat.description": "Přidá hlasový chat z SimpleVoiceChat do replayu"
 }

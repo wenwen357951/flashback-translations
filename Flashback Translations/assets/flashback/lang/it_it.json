@@ -6,6 +6,7 @@
   "flashback.select_replay.data_read": "Lettura dati replay...",
   "flashback.select_replay.delete_question": "Sei sicuro di voler eliminare questo replay?",
   "flashback.select_replay.duration": "Durata: %s",
+  "flashback.option.per_second": "%s/s",
   "flashback.option.automatically_start": "Avvia Automaticamente",
   "flashback.option.automatically_start.description": "Avvia automaticamente una registrazione di replay quando si entra in un mondo/server",
   "flashback.option.automatically_finish": "Termina Automaticamente",
@@ -15,5 +16,13 @@
   "flashback.option.quicksave": "Quicksave",
   "flashback.option.quicksave.description": "Salva il replay con valori predefiniti invece di aprire la schermata Salva riproduzione",
   "flashback.option.hide_pause_menu_controls": "Nascondi Controlli Di Pausa",
-  "flashback.option.hide_pause_menu_controls.description": "Nascondi i controlli del menu Pausa (ESC) per avviare/terminare un riproducibile. I comandi continueranno a funzionare"
+  "flashback.option.hide_pause_menu_controls.description": "Nascondi i controlli del menu Pausa (ESC) per avviare/terminare un riproducibile. I comandi continueranno a funzionare",
+  "flashback.option.mark_dimension_changes": "Segna Le Modifiche Dimensione",
+  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.record_hotbar": "Registra Hotbar",
+  "flashback.option.record_hotbar.description": "Aggiunge informazioni hotbar in prima persona nel replay",
+  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second.description": "Il tasso di aggiornamento al secondo per la posizione/angolo del giocatore in prima persona",
+  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat.description": "Aggiunge chat vocale da SimpleVoiceChat nel replay"
 }
