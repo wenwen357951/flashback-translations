@@ -6,6 +6,7 @@
   "flashback.select_replay.data_read": "Lecture des données de relecture...",
   "flashback.select_replay.delete_question": "Êtes-vous sûr de vouloir supprimer cette rediffusion?",
   "flashback.select_replay.duration": "Durée : %s",
+  "flashback.option.per_second": "%s/s",
   "flashback.option.automatically_start": "Démarrer automatiquement",
   "flashback.option.automatically_start.description": "Démarre automatiquement un enregistrement de rediffusion lorsque vous rejoignez un monde/serveur",
   "flashback.option.automatically_finish": "Terminer automatiquement",
@@ -15,5 +16,13 @@
   "flashback.option.quicksave": "Quicksave",
   "flashback.option.quicksave.description": "Enregistrer le replay avec les valeurs par défaut au lieu d'ouvrir l'écran Enregistrer Replay",
   "flashback.option.hide_pause_menu_controls": "Masquer les commandes de pause",
-  "flashback.option.hide_pause_menu_controls.description": "Masquer les commandes du menu Pause (ESC) pour démarrer/terminer une rediffusion. Les commandes fonctionneront toujours"
+  "flashback.option.hide_pause_menu_controls.description": "Masquer les commandes du menu Pause (ESC) pour démarrer/terminer une rediffusion. Les commandes fonctionneront toujours",
+  "flashback.option.mark_dimension_changes": "Mark Dimension Changes",
+  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.record_hotbar": "Record Hotbar",
+  "flashback.option.record_hotbar.description": "Adds first-person hotbar information into the replay",
+  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second.description": "The update rate per second for the position/angle of the first-person player",
+  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat.description": "Adds voice chat from SimpleVoiceChat into the replay"
 }
