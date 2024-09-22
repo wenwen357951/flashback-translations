@@ -2,7 +2,7 @@
   "flashback.select_replay": "Wiedergabe auswählen",
   "flashback.select_replay.open": "Replay öffnen",
   "flashback.select_replay.loading_replays": "Wiederholungen werden geladen",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Wiederholung aus Datei laden...",
   "flashback.select_replay.replay": "Wiederholen",
   "flashback.select_replay.data_read": "Replaydaten werden gelesen...",
   "flashback.select_replay.delete_question": "Sind Sie sicher, dass Sie diese Wiederholung löschen möchten?",
