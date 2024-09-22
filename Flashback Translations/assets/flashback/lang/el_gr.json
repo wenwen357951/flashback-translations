@@ -2,6 +2,7 @@
   "flashback.select_replay": "Επιλέξτε Επανάληψη",
   "flashback.select_replay.open": "Άνοιγμα Επανάληψης",
   "flashback.select_replay.loading_replays": "Φόρτωση Αντιγράφων",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Επανάληψη",
   "flashback.select_replay.data_read": "Ανάγνωση δεδομένων επανάληψης...",
   "flashback.select_replay.delete_question": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την επανάληψη?",
