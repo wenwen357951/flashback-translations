@@ -2,6 +2,7 @@
   "flashback.select_replay": "Seleccionar repetición",
   "flashback.select_replay.open": "Abrir repetición",
   "flashback.select_replay.loading_replays": "Cargando Reproducciones",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Repetir",
   "flashback.select_replay.data_read": "Leyendo datos de reproducción...",
   "flashback.select_replay.delete_question": "¿Está seguro que desea eliminar esta repetición?",
