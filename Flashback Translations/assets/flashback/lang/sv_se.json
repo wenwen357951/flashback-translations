@@ -2,6 +2,7 @@
   "flashback.select_replay": "Välj Replay",
   "flashback.select_replay.open": "Öppna repris",
   "flashback.select_replay.loading_replays": "Laddar repriser",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Uppspelning",
   "flashback.select_replay.data_read": "Läser reprisdata...",
   "flashback.select_replay.delete_question": "Är du säker på att du vill ta bort denna uppspelning?",
