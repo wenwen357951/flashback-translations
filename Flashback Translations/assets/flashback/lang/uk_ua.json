@@ -2,6 +2,7 @@
   "flashback.select_replay": "Обрати повтор",
   "flashback.select_replay.open": "Відкрити повтор",
   "flashback.select_replay.loading_replays": "Завантаження повтор",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Повторити",
   "flashback.select_replay.data_read": "Читання повтор даних...",
   "flashback.select_replay.delete_question": "Ви впевнені, що хочете видалити цей повтор?",
