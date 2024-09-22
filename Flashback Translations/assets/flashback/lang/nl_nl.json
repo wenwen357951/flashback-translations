@@ -2,7 +2,7 @@
   "flashback.select_replay": "Selecteer Herhaling",
   "flashback.select_replay.open": "Herhaling openen",
   "flashback.select_replay.loading_replays": "Herhalingen laden",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Afspelen van bestand laden...",
   "flashback.select_replay.replay": "Herhaling",
   "flashback.select_replay.data_read": "Lezen van herhalingsgegevens...",
   "flashback.select_replay.delete_question": "Weet je zeker dat je deze herhaling wilt verwijderen?",
