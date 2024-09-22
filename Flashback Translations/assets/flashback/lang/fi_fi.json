@@ -2,7 +2,7 @@
   "flashback.select_replay": "Valitse Toisto",
   "flashback.select_replay.open": "Avaa Toisto",
   "flashback.select_replay.loading_replays": "Ladataan Lukuja",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Lataa uudelleen tiedostosta...",
   "flashback.select_replay.replay": "Toista",
   "flashback.select_replay.data_read": "Luetaan uusintatietoja...",
   "flashback.select_replay.delete_question": "Oletko varma, että haluat poistaa tämän uudelleen?",
