@@ -2,7 +2,7 @@
   "flashback.select_replay": "Sélectionner le replay",
   "flashback.select_replay.open": "Ouvrir le replay",
   "flashback.select_replay.loading_replays": "Chargement des replays",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Charger la relecture depuis un fichier...",
   "flashback.select_replay.replay": "Rejouer",
   "flashback.select_replay.data_read": "Lecture des données de relecture...",
   "flashback.select_replay.delete_question": "Êtes-vous sûr de vouloir supprimer cette rediffusion?",
