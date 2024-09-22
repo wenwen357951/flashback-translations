@@ -2,7 +2,7 @@
   "flashback.select_replay": "حدد إعادة العرض",
   "flashback.select_replay.open": "فتح إعادة العرض",
   "flashback.select_replay.loading_replays": "تحميل العروض",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "تحميل إعادة العرض من الملف...",
   "flashback.select_replay.replay": "إعادة العرض",
   "flashback.select_replay.data_read": "قراءة بيانات إعادة العرض...",
   "flashback.select_replay.delete_question": "هل أنت متأكد من أنك تريد حذف إعادة العرض هذه؟",
