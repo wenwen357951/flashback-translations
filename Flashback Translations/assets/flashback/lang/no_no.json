@@ -2,6 +2,7 @@
   "flashback.select_replay": "Velg avspilling",
   "flashback.select_replay.open": "Åpne reprise",
   "flashback.select_replay.loading_replays": "Laster replay",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Reprise",
   "flashback.select_replay.data_read": "Leser omspillingsdata...",
   "flashback.select_replay.delete_question": "Er du sikker på at du vil slette denne avspillingen?",
@@ -18,11 +19,11 @@
   "flashback.option.hide_pause_menu_controls": "Skjul Pause kontroller",
   "flashback.option.hide_pause_menu_controls.description": "Skjule Pause (ESC) menykontroller for starting/ferdiggjøring av en replay. Kommandoene vil fortsatt fungere",
   "flashback.option.mark_dimension_changes": "Mark Dimension Changes",
-  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.mark_dimension_changes.description": "Legg til en markør automatisk når dimensjoner skrus på",
   "flashback.option.record_hotbar": "Ta opp hurtiglinjen",
   "flashback.option.record_hotbar.description": "Legger til første-personers hotbar informasjon i replay",
-  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second": "Førsteperson Oppdateringer",
   "flashback.option.local_player_updates_per_second.description": "Oppdateringsrate per sekund for plassering/vinkel for førstepersonen spilleren",
-  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat": "Ta opp stemmechat",
   "flashback.option.record_voice_chat.description": "Legger til en talechat fra SimpleVoiceChat i replay"
 }

@@ -2,6 +2,7 @@
   "flashback.select_replay": "Vælg Genafspilning",
   "flashback.select_replay.open": "Åbn Genafspilning",
   "flashback.select_replay.loading_replays": "Indlæser Replays",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Gengiv",
   "flashback.select_replay.data_read": "Læser genafspil data...",
   "flashback.select_replay.delete_question": "Er du sikker på, at du vil slette denne genafspilning?",
@@ -18,11 +19,11 @@
   "flashback.option.hide_pause_menu_controls": "Skjul Pause Kontroller",
   "flashback.option.hide_pause_menu_controls.description": "Skjul Pause (ESC) menukontroller til at starte/afslutte en genafspilning. Kommandoerne vil stadig virke",
   "flashback.option.mark_dimension_changes": "Markér Dimensionsændringer",
-  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.mark_dimension_changes.description": "Tilføj automatisk en markør til replay når du skifter dimensioner",
   "flashback.option.record_hotbar": "Optag Hotbjælke",
   "flashback.option.record_hotbar.description": "Tilføjer førsteklasses hotbar information i replay",
-  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second": "Første-person Opdateringer",
   "flashback.option.local_player_updates_per_second.description": "Opdateringsraten pr. sekund for positionen/vinklen for førsteklasses spilleren",
-  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat": "Optag Stemme Chat",
   "flashback.option.record_voice_chat.description": "Tilføjer stemmechat fra SimpleVoiceChat til genafspilningen"
 }

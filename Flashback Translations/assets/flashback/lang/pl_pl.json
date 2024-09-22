@@ -2,6 +2,7 @@
   "flashback.select_replay": "Wybierz powtórkę",
   "flashback.select_replay.open": "Otwórz Powtórkę",
   "flashback.select_replay.loading_replays": "Wczytywanie powtórki",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Powtórz",
   "flashback.select_replay.data_read": "Czytanie danych powtórki...",
   "flashback.select_replay.delete_question": "Czy na pewno chcesz usunąć ten powtórzenie?",
@@ -18,11 +19,11 @@
   "flashback.option.hide_pause_menu_controls": "Ukryj sterowanie pauzem",
   "flashback.option.hide_pause_menu_controls.description": "Ukryj sterowanie menu pauzy (ESC) dla uruchomienia/zakończenia repliki. Polecenia będą nadal działać",
   "flashback.option.mark_dimension_changes": "Oznacz zmiany wymiaru",
-  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.mark_dimension_changes.description": "Automatycznie dodaj znacznik do powtórki podczas przełączania wymiarów",
   "flashback.option.record_hotbar": "Pasek skrótów",
   "flashback.option.record_hotbar.description": "Dodaje informacje o pierwszej osobie w powtórce",
-  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second": "Aktualizacje pierwszej osoby",
   "flashback.option.local_player_updates_per_second.description": "Częstotliwość aktualizacji na sekundę dla pozycji/kąta pierwszego gracza",
-  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat": "Nagrywaj czat głosowy",
   "flashback.option.record_voice_chat.description": "Dodaje czat głosowy z SimpleVoiceChat do powtórki"
 }

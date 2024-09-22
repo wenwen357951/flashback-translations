@@ -2,6 +2,7 @@
   "flashback.select_replay": "Selectează Reluare",
   "flashback.select_replay.open": "Deschide Reluare",
   "flashback.select_replay.loading_replays": "Se încarcă replay-urile",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Reluare",
   "flashback.select_replay.data_read": "Citire date reredare...",
   "flashback.select_replay.delete_question": "Sunteţi sigur că doriţi să ştergeţi această reluare?",
@@ -17,12 +18,12 @@
   "flashback.option.quicksave.description": "Salvează reluarea cu valorile implicite în loc să deschizi ecranul Salvează Reluarea",
   "flashback.option.hide_pause_menu_controls": "Ascunde controalele de pauză",
   "flashback.option.hide_pause_menu_controls.description": "Ascunde controalele meniului Pauză (ESC) pentru pornirea/terminarea răspunsului. Comenzile vor funcționa în continuare",
-  "flashback.option.mark_dimension_changes": "Mark Dimension Changes",
-  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
-  "flashback.option.record_hotbar": "Record Hotbar",
-  "flashback.option.record_hotbar.description": "Adds first-person hotbar information into the replay",
-  "flashback.option.local_player_updates_per_second": "First-person Updates",
-  "flashback.option.local_player_updates_per_second.description": "The update rate per second for the position/angle of the first-person player",
-  "flashback.option.record_voice_chat": "Record Voice Chat",
-  "flashback.option.record_voice_chat.description": "Adds voice chat from SimpleVoiceChat into the replay"
+  "flashback.option.mark_dimension_changes": "Marchează modificările dimensiunilor",
+  "flashback.option.mark_dimension_changes.description": "Adaugă automat un marcaj la replay la schimbarea dimensiunilor",
+  "flashback.option.record_hotbar": "Înregistrează hotbar",
+  "flashback.option.record_hotbar.description": "Adaugă informații hotbar pentru prima persoană în replay",
+  "flashback.option.local_player_updates_per_second": "Actualizări prima persoană",
+  "flashback.option.local_player_updates_per_second.description": "Rata de actualizare pe secundă pentru poziția/unghiul primului jucător",
+  "flashback.option.record_voice_chat": "Inregistreaza Voce Chat",
+  "flashback.option.record_voice_chat.description": "Adaugă chat vocal de la SimpleVoiceChat în reredarea"
 }

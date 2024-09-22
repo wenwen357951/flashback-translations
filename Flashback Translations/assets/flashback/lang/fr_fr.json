@@ -2,6 +2,7 @@
   "flashback.select_replay": "Sélectionner le replay",
   "flashback.select_replay.open": "Ouvrir le replay",
   "flashback.select_replay.loading_replays": "Chargement des replays",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Rejouer",
   "flashback.select_replay.data_read": "Lecture des données de relecture...",
   "flashback.select_replay.delete_question": "Êtes-vous sûr de vouloir supprimer cette rediffusion?",
@@ -17,12 +18,12 @@
   "flashback.option.quicksave.description": "Enregistrer le replay avec les valeurs par défaut au lieu d'ouvrir l'écran Enregistrer Replay",
   "flashback.option.hide_pause_menu_controls": "Masquer les commandes de pause",
   "flashback.option.hide_pause_menu_controls.description": "Masquer les commandes du menu Pause (ESC) pour démarrer/terminer une rediffusion. Les commandes fonctionneront toujours",
-  "flashback.option.mark_dimension_changes": "Mark Dimension Changes",
-  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
-  "flashback.option.record_hotbar": "Record Hotbar",
-  "flashback.option.record_hotbar.description": "Adds first-person hotbar information into the replay",
-  "flashback.option.local_player_updates_per_second": "First-person Updates",
-  "flashback.option.local_player_updates_per_second.description": "The update rate per second for the position/angle of the first-person player",
-  "flashback.option.record_voice_chat": "Record Voice Chat",
-  "flashback.option.record_voice_chat.description": "Adds voice chat from SimpleVoiceChat into the replay"
+  "flashback.option.mark_dimension_changes": "Marquer les changements de dimension",
+  "flashback.option.mark_dimension_changes.description": "Ajouter automatiquement un marqueur au replay lors du changement de dimension",
+  "flashback.option.record_hotbar": "Enregistrer la barre de raccourcis",
+  "flashback.option.record_hotbar.description": "Ajoute les informations de la première personne dans le replay",
+  "flashback.option.local_player_updates_per_second": "Mises à jour de la première personne",
+  "flashback.option.local_player_updates_per_second.description": "Le taux de mise à jour par seconde pour la position/angle du joueur de première personne",
+  "flashback.option.record_voice_chat": "Enregistrer la discussion vocale",
+  "flashback.option.record_voice_chat.description": "Ajoute le chat vocal à partir de SimpleVoiceChat dans le replay"
 }

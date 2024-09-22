@@ -2,6 +2,7 @@
   "flashback.select_replay": "Обрати повтор",
   "flashback.select_replay.open": "Відкрити повтор",
   "flashback.select_replay.loading_replays": "Завантаження повтор",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Повторити",
   "flashback.select_replay.data_read": "Читання повтор даних...",
   "flashback.select_replay.delete_question": "Ви впевнені, що хочете видалити цей повтор?",
@@ -18,11 +19,11 @@
   "flashback.option.hide_pause_menu_controls": "Приховати пульт керування паузами",
   "flashback.option.hide_pause_menu_controls.description": "Приховати призупинити (ESC) меню управління для запуску/завершення повторної гри. Команди все одно працюватимуть",
   "flashback.option.mark_dimension_changes": "Зміни розміру Марка",
-  "flashback.option.mark_dimension_changes.description": "Automatically add a marker to the replay when switching dimensions",
+  "flashback.option.mark_dimension_changes.description": "Автоматично додавати маркер до області повтору при зміні розміру",
   "flashback.option.record_hotbar": "Панель швидкого доступу",
   "flashback.option.record_hotbar.description": "Додає інформацію про панель швидкого доступу першокласного користувача у повтор",
-  "flashback.option.local_player_updates_per_second": "First-person Updates",
+  "flashback.option.local_player_updates_per_second": "Оновлення першої особи",
   "flashback.option.local_player_updates_per_second.description": "Частота оновлення за секунду для позиції/кута гравця першої особи",
-  "flashback.option.record_voice_chat": "Record Voice Chat",
+  "flashback.option.record_voice_chat": "Запис голосового чату",
   "flashback.option.record_voice_chat.description": "Додає голосовий чат із SimpleVoiceChat у повтор"
 }

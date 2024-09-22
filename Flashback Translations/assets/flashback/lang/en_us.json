@@ -9,7 +9,6 @@
   "flashback.select_replay.duration": "Duration: %s",
 
   "flashback.option.per_second": "%s/s",
-
   "flashback.option.automatically_start": "Automatically Start",
   "flashback.option.automatically_start.description": "Automatically starts a replay recording when joining a world/server",
   "flashback.option.automatically_finish": "Automatically Finish",
