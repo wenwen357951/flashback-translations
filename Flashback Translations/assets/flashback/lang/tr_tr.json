@@ -2,6 +2,7 @@
   "flashback.select_replay": "Kaydı Seçin",
   "flashback.select_replay.open": "Kaydı Açın",
   "flashback.select_replay.loading_replays": "Kayıt Yükleniyor",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Kayıt",
   "flashback.select_replay.data_read": "Kayıt verisi okunuyor...",
   "flashback.select_replay.delete_question": "Bu kaydı silmek istediğine emin misin?",
