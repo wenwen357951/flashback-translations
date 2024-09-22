@@ -2,6 +2,7 @@
   "flashback.select_replay": "Selecionar Replay",
   "flashback.select_replay.open": "Abrir Replay",
   "flashback.select_replay.loading_replays": "Carregando Replays",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Repetição",
   "flashback.select_replay.data_read": "Lendo dados de replay...",
   "flashback.select_replay.delete_question": "Tem certeza que deseja excluir este replay?",
