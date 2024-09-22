@@ -2,7 +2,7 @@
   "flashback.select_replay": "Velg avspilling",
   "flashback.select_replay.open": "Åpne reprise",
   "flashback.select_replay.loading_replays": "Laster replay",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Last inn replay fra fil...",
   "flashback.select_replay.replay": "Reprise",
   "flashback.select_replay.data_read": "Leser omspillingsdata...",
   "flashback.select_replay.delete_question": "Er du sikker på at du vil slette denne avspillingen?",
