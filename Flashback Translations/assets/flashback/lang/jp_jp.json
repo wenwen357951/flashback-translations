@@ -2,6 +2,7 @@
   "flashback.select_replay": "リプレイを選択",
   "flashback.select_replay.open": "リプレイを開く",
   "flashback.select_replay.loading_replays": "リプレイの読み込み中",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "リプレイ",
   "flashback.select_replay.data_read": "リプレイデータを読み込んでいます...",
   "flashback.select_replay.delete_question": "このリプレイを削除してもよろしいですか？",
