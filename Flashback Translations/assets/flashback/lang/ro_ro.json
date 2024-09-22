@@ -2,7 +2,7 @@
   "flashback.select_replay": "Selectează Reluare",
   "flashback.select_replay.open": "Deschide Reluare",
   "flashback.select_replay.loading_replays": "Se încarcă replay-urile",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Incarca replay din fisier...",
   "flashback.select_replay.replay": "Reluare",
   "flashback.select_replay.data_read": "Citire date reredare...",
   "flashback.select_replay.delete_question": "Sunteţi sigur că doriţi să ştergeţi această reluare?",
