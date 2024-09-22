@@ -2,7 +2,7 @@
   "flashback.select_replay": "Vybrat záznam",
   "flashback.select_replay.open": "Otevřít záznam",
   "flashback.select_replay.loading_replays": "Načítání replayů",
-  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
+  "flashback.select_replay.load_replay_from_file": "Načíst záznam ze souboru...",
   "flashback.select_replay.replay": "Přehrát znovu",
   "flashback.select_replay.data_read": "Čtení záznamu dat...",
   "flashback.select_replay.delete_question": "Jste si jisti, že chcete odstranit tuto replay?",
