@@ -2,6 +2,7 @@
   "flashback.select_replay": "Vælg Genafspilning",
   "flashback.select_replay.open": "Åbn Genafspilning",
   "flashback.select_replay.loading_replays": "Indlæser Replays",
+  "flashback.select_replay.load_replay_from_file": "Load replay from file...",
   "flashback.select_replay.replay": "Gengiv",
   "flashback.select_replay.data_read": "Læser genafspil data...",
   "flashback.select_replay.delete_question": "Er du sikker på, at du vil slette denne genafspilning?",
